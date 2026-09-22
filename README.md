@@ -10,7 +10,6 @@
   <p>
     <a href="https://linkedin.com/in/lokendra-rajput-519a371b3"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:lokendrarajput911@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://lokendradev.github.io/iPortfoliolr"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
   </p>
 </div>
 
